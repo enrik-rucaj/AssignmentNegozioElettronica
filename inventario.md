@@ -2,3 +2,5 @@
 1187478
 
 schede madri
+processori
+
